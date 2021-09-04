@@ -9,8 +9,8 @@ export default class About extends React.Component {
           
             <h2>About</h2>
             <p>I am a website development enthusiast. I am studying
-                computer sciences in Universidad Estatal a Distancia. In this moment
-                i have knowledge in Javascript and PHP and, of course, html and css. Currently learning React!  </p>
+                computer sciences in Universidad Estatal a Distancia. I have basic knowledge in Javascript and PHP. I have created a couple of websites and apps that you can check 
+                in my GitHub Repository. I am currently learning React!  </p>
         </div>
 
   

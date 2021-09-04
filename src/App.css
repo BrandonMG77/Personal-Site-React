@@ -1,4 +1,6 @@
 /* Add a black background color to the top navigation */
+
+@import url("https://fonts.googleapis.com/css2?family=Averia+Sans+Libre:wght@300&family=Faster+One&family=Poller+One&family=Spectral+SC:wght@200&display=swap");
 .topnav {
   background-color: rgb(255, 255, 255);
   overflow: hidden;
@@ -14,6 +16,7 @@
   padding-left: 9vh;
   text-decoration: none;
   font-size: 19px;
+  font-family: "Spectral SC", serif;
 }
 
 /* Change the color of links on hover */
@@ -26,7 +29,7 @@
 .topnav a.active {
   background-color: #ffffff;
   color: rgb(2, 1, 1);
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "Poller One", cursive;
   padding-left: 3vh;
   font-size: 24px;
 }
@@ -37,6 +40,7 @@
 }
 
 .sub {
+  font-family: "Spectral SC", serif;
   background-color: rgb(255, 255, 255);
   width: 80%;
   height: 20vh;
@@ -52,6 +56,7 @@
 
 .main {
   text-align: center;
+  font-family: "Spectral SC", serif;
 }
 .image {
   display: block;
@@ -63,6 +68,8 @@
 }
 
 .about {
+  font-family: "Spectral SC", serif;
+  text-align: justify;
   border-top: 1px solid rgb(228, 228, 228);
   background-color: rgb(255, 255, 255);
   width: 80%;
@@ -71,6 +78,7 @@
 }
 
 .footer {
+  font-family: "Spectral SC", serif;
   border-top: 1px solid rgb(228, 228, 228);
   position: absolute;
   bottom: 0;
