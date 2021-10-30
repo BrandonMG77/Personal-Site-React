@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BrandonMG77/Personal-Site-React/static/css/main.9c024957.chunk.css",
+    "main.js": "/BrandonMG77/Personal-Site-React/static/js/main.0180485b.chunk.js",
+    "main.js.map": "/BrandonMG77/Personal-Site-React/static/js/main.0180485b.chunk.js.map",
+    "runtime-main.js": "/BrandonMG77/Personal-Site-React/static/js/runtime-main.062dbf30.js",
+    "runtime-main.js.map": "/BrandonMG77/Personal-Site-React/static/js/runtime-main.062dbf30.js.map",
+    "static/js/2.4961c3ea.chunk.js": "/BrandonMG77/Personal-Site-React/static/js/2.4961c3ea.chunk.js",
+    "static/js/2.4961c3ea.chunk.js.map": "/BrandonMG77/Personal-Site-React/static/js/2.4961c3ea.chunk.js.map",
+    "static/js/3.40c25820.chunk.js": "/BrandonMG77/Personal-Site-React/static/js/3.40c25820.chunk.js",
+    "static/js/3.40c25820.chunk.js.map": "/BrandonMG77/Personal-Site-React/static/js/3.40c25820.chunk.js.map",
+    "index.html": "/BrandonMG77/Personal-Site-React/index.html",
+    "static/css/main.9c024957.chunk.css.map": "/BrandonMG77/Personal-Site-React/static/css/main.9c024957.chunk.css.map",
+    "static/js/2.4961c3ea.chunk.js.LICENSE.txt": "/BrandonMG77/Personal-Site-React/static/js/2.4961c3ea.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BrandonMG77/Personal-Site-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.062dbf30.js",
+    "static/js/2.4961c3ea.chunk.js",
+    "static/css/main.9c024957.chunk.css",
+    "static/js/main.0180485b.chunk.js"
+  ]
+}
